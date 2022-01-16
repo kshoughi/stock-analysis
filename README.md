@@ -6,6 +6,7 @@ The purpose of this workbook is to analyze the dataset provided for stock analys
 
 ## Results
 The refactored code runs faster than the original code. The reason is that in the original code, two nested loops is used while in the refactored code, no nested for loops is used.  The refactored code runs in about 0.11 s. 
+![img1](https://github.com/kshoughi/stock-analysis/blob/main/Screen%20Shot%202022-01-15%20at%206.35.22%20PM.png)
 
 ### Execution Time
 ### Stock Performance
